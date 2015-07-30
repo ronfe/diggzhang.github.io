@@ -1,12 +1,12 @@
 # Site settings
-title: Diggzhang
-email: diggzhang@gmail.com
+title: ronfe
+email: me@ronfe.net
 description: > # this means to ignore newlines until "baseurl:"
-    to become a developer this year(2015)
+    ronfe
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: diggzhang 
-github_username: diggzhang 
+url: "http://ronfe.io" # the base hostname & protocol for your site
+twitter_username: chihungfei
+github_username: ronfe 
 
 # Build settings
 markdown: kramdown
